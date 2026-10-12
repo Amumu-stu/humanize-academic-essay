@@ -24,7 +24,7 @@
 
 对比使用之后，我开始尝试**笔灵 AI**，主要是看中它面向英文文稿的处理功能。这里分享个人使用体验，供大家参考。
 
-传送门：[笔灵英文降ai ]([https://ibiling.cn/paper-pass/english?from=githubywjiangai1009jw])[https://ibiling\.cn/paper\-pass/english]([https://ibiling.cn/paper-pass/english?from=githubywjiangai1009jw])
+传送门：[笔灵英文降ai ](https://ibiling.cn/paper-pass/english?from=githubywjiangai1009jw)[https://ibiling\.cn/paper\-pass/english](https://ibiling.cn/paper-pass/english?from=githubywjiangai1009jw)
 
 ![image\.png](图片和附件/image%201.png)
 
